@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  BASE_URL:"http://localhost:8000/api/todos"
+  BASE_URL:"https://todoappbe-ev8e.onrender.com/api/todos"
 };
 
 /*
